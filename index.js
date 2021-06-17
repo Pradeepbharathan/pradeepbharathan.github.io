@@ -1,5 +1,4 @@
 //! todo list 
-alert ("hi")
 //* giving messages to the user
 
 alert(`Hello user....
