@@ -1,5 +1,5 @@
 //! todo list 
-
+//Small project
 //* giving messages to the user
 
 alert(`Hello user....
