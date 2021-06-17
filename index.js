@@ -7,7 +7,7 @@ This is the TO-DO list ,which is created by Pradeep.
 `)
 alert(`Add your duties in the input box which is given
  below and click add button to save as a list.
- single click the created list if you completed and 
+ single click the created list if you have completed and 
  double click the  created list if you want to delete it.`)
 
  //? declaring the array and object
